@@ -1,0 +1,21 @@
+
+
+
+body {
+background: linear-gradient(#A0E5FA, #47C3E9);
+min-height: 98vh;
+font-family: 'arial', sans-serif;
+color: #fff;
+text-align: center;
+}
+
+#vragen {
+	color: #fff;
+	border: solid 5px red;
+	text-align: center;
+	border-width: 5px;
+	margin: 0px 500px;
+}
+input {
+	margin-top: 5px;
+}
